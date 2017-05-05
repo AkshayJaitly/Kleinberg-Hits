@@ -1,5 +1,5 @@
-# README #
-
+# Kleinberg Hits #
+This a HITS Algorithm implemenation in Java
 ## CODE COMPILATION(Hits)
 
 $javac hits7767.java
